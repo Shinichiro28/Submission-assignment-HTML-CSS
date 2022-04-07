@@ -35,21 +35,21 @@ main {
 
 .stap1-img {
   height: 150px;
-  background-image: url(flow01.png);
+  background-image: url(./img/flow01.png);
   background-position: bottom;
   background-size: cover;
 }
 
 .stap2-img {
   height: 150px;
-  background-image: url(flow02.png);
+  background-image: url(./img/flow02.png);
   background-position: bottom;
   background-size: cover;
 }
 
 .stap3-img {
   height: 150px;
-  background-image: url(flow03.png);
+  background-image: url(./img/flow03.png);
   background-position: bottom;
   background-size: cover;
 }
